@@ -1,6 +1,3 @@
-// SleepyOS 💤
-// Codédex
-
 const os = require('os');
 
 // Constants for time conversion
